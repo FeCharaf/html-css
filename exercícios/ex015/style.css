@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color:red;
+    background-color: brown;
+}
+h2 {
+color: rgb(8, 2, 2);
+}
+
+p{
+    color:black;
+    text-align:justify;
+}
